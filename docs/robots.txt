@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ayushanand18.github.io/sitemap.xml
+Host: https://ayushanand18.github.io

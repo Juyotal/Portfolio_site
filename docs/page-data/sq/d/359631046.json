@@ -1,0 +1,74 @@
+{
+  "data": {
+    "projects": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Predicting Particle Collision in CERN CMS",
+              "tech": ["PyTorch", "Python", "NumPy", "Pandas"],
+              "github": "https://github.com/ayushanand18/cern-cms-detect-exp",
+              "external": "https://github.com/ayushanand18/cern-cms-detect-exp"
+            },
+            "html": "<p>Created a Linear Sequential Model to detect particle collision using CERN CMS Collision Detection data, achieving over 98.88% accuracy</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Deep Learning Research for FasterRCNN model on Underwater Image Data from the Great Barrier Reef",
+              "tech": ["PyTorch", "Python", "Pandas", "OpenCV"],
+              "github": "https://github.com/ayushanand18/FasterRCNN-Great-Barrier-Reef",
+              "external": "https://github.com/ayushanand18/FasterRCNN-Great-Barrier-Reef"
+            },
+            "html": "<p>The goal of creating a FastRCNN based object detection model was to accurately identify starfish in real-time, trained on underwater videos of coral reefs. The model can accurately identify COTS from video footage and output coordinates of a \"bounding box\" with the location of the COTS.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Tokyo Olympics 2020 | Interesting Data Patterns",
+              "tech": ["Python", "Pandas", "Seaborn", "Matplotlib"],
+              "github": "https://www.kaggle.com/theayushanand/tokyo-2020-data-visualization/notebook",
+              "external": "https://www.kaggle.com/theayushanand/tokyo-2020-data-visualization/notebook"
+            },
+            "html": "<p>Analyzed Tokyo Olympics 2020 data and identifying really interesting patterns such as gender, country and ethnicity diversity across disciplines.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Generate TV Script using RNNs (Python)",
+              "tech": ["PyTorch", "Python"],
+              "github": "https://github.com/udacity/deep-learning-v2-pytorch",
+              "external": "https://github.com/udacity/deep-learning-v2-pytorch"
+            },
+            "html": "<p>This projects involves generating TV scripts by defining and training a recurrent neural network (deep learning).</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "NephronAI — Fighting chronic kidney disease using machine learning",
+              "tech": ["AzureML", "Python", "JavaScript", "NodeJS"],
+              "github": "https://github.com/ayushanand18/nephron-ai",
+              "external": "https://ayushanand18.github.io/nephron-ai"
+            },
+            "html": "<p>Built a web-based accessible tool for individuals, practicing physicians, hospitals, to detect chronic kidney disease with 99%+ accuracy based on a Random Forest model, get the underlying cause using Fuzzy logic, and recommended change in lifestyle to help tackle the disease.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Alec AI Assist | Fighting fake news using the google assistant",
+              "tech": ["Google Assistant", "Cloud Actions", "Firebase", "JavaScript"],
+              "github": "https://github.com/ayushanand18/alec.ai",
+              "external": "https://ayushanand18.github.io/alec.ai"
+            },
+            "html": "<p>Alec AI Assist is a voice and text based virtual assistant to help us combat fake news, allowing a user to fact check a news, blog, tweet or SMS and return whether that seems fake or true - all by simply talking to it! It is also available on the Google Assistant.</p>"
+          }
+        }
+      ]
+    }
+  }
+}

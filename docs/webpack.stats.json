@@ -1,0 +1,37 @@
+{
+  "name": "build-javascript",
+  "namedChunkGroups": {
+    "polyfill": {
+      "name": "polyfill",
+      "assets": [
+        { "name": "webpack-runtime-7e523ca3ba23931d5810.js", "size": 3674 },
+        { "name": "polyfill-d702068f6e63fe0d0509.js", "size": 85017 }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 88691,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": 226382
+    },
+    "app": {
+      "name": "app",
+      "assets": [
+        { "name": "webpack-runtime-7e523ca3ba23931d5810.js", "size": 3674 },
+        { "name": "framework-692038fe80e68dc3e016.js", "size": 210233 },
+        { "name": "app-34da1b4ace3fbbef3d14.js", "size": 306997 }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 520904,
+      "filteredAuxiliaryAssets": 23,
+      "auxiliaryAssetsSize": 2254440
+    }
+  },
+  "assetsByChunkName": {
+    "polyfill": ["webpack-runtime-7e523ca3ba23931d5810.js", "polyfill-d702068f6e63fe0d0509.js"],
+    "app": [
+      "webpack-runtime-7e523ca3ba23931d5810.js",
+      "framework-692038fe80e68dc3e016.js",
+      "app-34da1b4ace3fbbef3d14.js"
+    ]
+  },
+  "childAssetsByChunkName": {}
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "featured": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Saathi | Promoting justice to victims of any harassment, bullying, or abuse",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHFA0MkP//EABkQAAMAAwAAAAAAAAAAAAAAAAABERASIf/aAAgBAQABBQLXhSsrx//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAABAxAP/aAAgBAQAGPwJup//EABsQAAEFAQEAAAAAAAAAAAAAAAEAEBEhMUFR/9oACAEBAAE/IekjPWEAqtKQ2Tf/2gAMAwEAAgADAAAAEGjv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAECAQE/ENV//8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBUYGR/9oACAEBAAE/EM2clqpfyI7p6MQhEupXUAOLm4HseMGup//Z"
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/98bf159da0ddea611c7fd2b3d3c8831c/2b365/saathi.jpg",
+                        "srcSet": "/static/98bf159da0ddea611c7fd2b3d3c8831c/1849b/saathi.jpg 175w,\n/static/98bf159da0ddea611c7fd2b3d3c8831c/3f5de/saathi.jpg 350w,\n/static/98bf159da0ddea611c7fd2b3d3c8831c/2b365/saathi.jpg 700w,\n/static/98bf159da0ddea611c7fd2b3d3c8831c/8aa42/saathi.jpg 1400w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/98bf159da0ddea611c7fd2b3d3c8831c/dae43/saathi.avif 175w,\n/static/98bf159da0ddea611c7fd2b3d3c8831c/d7667/saathi.avif 350w,\n/static/98bf159da0ddea611c7fd2b3d3c8831c/7ec1a/saathi.avif 700w,\n/static/98bf159da0ddea611c7fd2b3d3c8831c/71a30/saathi.avif 1400w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/98bf159da0ddea611c7fd2b3d3c8831c/5d873/saathi.webp 175w,\n/static/98bf159da0ddea611c7fd2b3d3c8831c/26a00/saathi.webp 350w,\n/static/98bf159da0ddea611c7fd2b3d3c8831c/f23f0/saathi.webp 700w,\n/static/98bf159da0ddea611c7fd2b3d3c8831c/2c2d0/saathi.webp 1400w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 394
+                  }
+                }
+              },
+              "tech": ["NodeJS", "NLP.JS", "Firebase"],
+              "github": "https://github.com/ayushanand18/project-saathi",
+              "external": "https://project-saathi-43be5.web.app/"
+            },
+            "html": "<p>Built a Natural Language Processing (NLP) based chatbot that supports women and victims of abuse, simultaneously safeguarding their privacy by generating anonymised 16 digit tokens with 100% security focused design.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "RespirCov | Blockchain powered interactive ventilator and hospital beds tracker",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAyklEQVQoz61SzQqGIBD0KSSKyn4xKKJLF6HoEHQq6Bj4/o8xoWCHMIuP7zDsMq7j7rgkjmPcEUWRNXdxBuTpwFxijF1QnIouUeJ63fd9UEo1PM/TnIqKN7V3YWITC4IAdV1DSol937FtG47jwLIsWNcVQghdY2uCPI2bZRmGYcA8z1pkHEf0fY9pmtB1HcIw/D5yURRo2xZVVaEsS+R5Ds657trEpmmsXhLXZyRJopGm6ZUbPH2O1UNj9he8eujasbedde7hr/i74AnhkDJY87JXQwAAAABJRU5ErkJggg=="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/6d6fc4065ec294e1043885bdc01e96d0/60529/demo.png",
+                        "srcSet": "/static/6d6fc4065ec294e1043885bdc01e96d0/dfbac/demo.png 175w,\n/static/6d6fc4065ec294e1043885bdc01e96d0/76a13/demo.png 350w,\n/static/6d6fc4065ec294e1043885bdc01e96d0/60529/demo.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/6d6fc4065ec294e1043885bdc01e96d0/55e84/demo.avif 175w,\n/static/6d6fc4065ec294e1043885bdc01e96d0/dee16/demo.avif 350w,\n/static/6d6fc4065ec294e1043885bdc01e96d0/8d1da/demo.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/6d6fc4065ec294e1043885bdc01e96d0/1ab83/demo.webp 175w,\n/static/6d6fc4065ec294e1043885bdc01e96d0/5466f/demo.webp 350w,\n/static/6d6fc4065ec294e1043885bdc01e96d0/8990b/demo.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 375
+                  }
+                }
+              },
+              "tech": ["NodeJS", "IBM App ID", "IBM Cloud Foundry"],
+              "github": "https://github.com/ayushanand18/covid-19",
+              "external": "https://github.com/ayushanand18/covid-19"
+            },
+            "html": "<p>RespirCov is a blockchain-powered application to provide a live, interactive dashboard for monitoring ventilator availability in an area. It shows hospital-wise numbers for vacant and occupied ventilators enabling the doctors, healthcare activists, patients, and other stakeholders to check the status in real-time.</p>"
+          }
+        }
+      ]
+    }
+  }
+}

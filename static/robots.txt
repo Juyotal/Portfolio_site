@@ -1,0 +1,17 @@
+Sitemap: https://ayushanand18.github.io/sitemap.xml
+
+User-agent: *
+Allow: /
+Allow: /contact
+Allow: /portfolio
+Allow: /privacy
+Allow: /terms
+Allow: /index
+Allow: /nephron-ai
+Allow: /nephron-ai/contribute
+Allow: /nephron-ai/about
+Allow: /nephron-ai/classify
+Allow: /nephron-ai/cause
+Allow: /nephron-ai/laststeps
+Disallow: /google9ef1d6c7d25de0d1
+Disallow: /README.md

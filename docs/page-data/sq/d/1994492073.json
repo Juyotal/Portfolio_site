@@ -1,0 +1,13 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "defaultTitle": "Ayush Anand",
+        "defaultDescription": "Ayush Anand is a CS Undergrad specializing in building (and occasionally designing) apps that help solve social challenges",
+        "siteUrl": "https://ayushanand18.github.io",
+        "defaultImage": "/og.png",
+        "twitterUsername": "@theayushanand"
+      }
+    }
+  }
+}
