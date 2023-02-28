@@ -1,18 +1,18 @@
 module.exports = {
-  email: 'ayush.anandsa[at]gmail[dot].com',
+  email: 'cesarkamga3[at]gmail[dot].com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/ayushanand18',
+      url: 'https://github.com/Juyotal',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/theayushanand',
+      url: 'https://twitter.com/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/theayushanand',
+      url: 'https://www.linkedin.com/in/jules-t-774291207/',
     },
   ],
 

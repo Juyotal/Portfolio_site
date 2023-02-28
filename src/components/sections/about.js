@@ -229,9 +229,9 @@ const About = () => {
           <h1>Education</h1>
           <div>
             <br />
-            <h3>National Institute of Technology Durgapur, India </h3>
-            Bachelor of Technology in Computer Science and Engineering, <i>Expected 2025</i>
-            <i>
+            <h3>Cape Peninsula University of Technology, South Africa </h3>
+            Advanced Diploma in Mechatronics Engineering, <i>Expected 2023</i>
+            {/* <i>
               <ul>
                 <li>
                   {' '}
@@ -239,10 +239,10 @@ const About = () => {
                 </li>
                 <li>
                   {' '}
-                  <b>Organisations</b>: Indian Society for Technical Education (ISTE)
+                  <b>Organisations</b>:
                 </li>
               </ul>
-            </i>
+            </i> */}
           </div>
         </div>
       </div>
