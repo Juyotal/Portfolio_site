@@ -128,19 +128,18 @@ const About = () => {
   const skills = [
     'Python (pandas, numpy, matplotlib+)',
     'PyTorch',
-    'TensorFlow',
-    'JavaScript (ES6+)',
+    'Django',
+    'TypeScript',
     'NodeJS',
-    'ReactJS',
-    'C++',
-    'Gatsby',
-    'Firebase',
-    'C',
-    'Microsoft Azure',
-    'MySQL',
-    'IBM Cloud',
-    'Vercel',
-    'Netify',
+    'NextJs',
+    'Solidity (Foundry, Hardhat)',
+    'GraphQL',
+    'PostgeSQL',
+    'AWS',
+    'Docker',
+    'Kubernetes',
+    'RabbitMQ',
+    'Git',
   ];
 
   return (
@@ -151,33 +150,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ayush Anand and I enjoy creating things that solve social challenges
-              globally. Apart from being a GSoC 2022 student for IOOS, I am a CS Undergrad at NIT
-              Durgapur and a full-stack and machine learning developer leveraging AI for Social
-              Good.
+              Hello! My name is Jules Taghe and I enjoy creating things as long as I feel there is something
+              I can learn from it. Apart from being a Mechatronics Undergrad at CPUT, I am 
+              a full-stack and blockchain developer Aiming at leveraging code for world development.
             </p>
 
             <p>
               <h4>Things I do</h4>
               <ul>
-                <li>research on how data science can help fight the climate crisis.</li>
+                <li>research and keep up to date with the latest trends in the WEB 3 space. (everything goes so fast)</li>
                 <li>
-                  Hacker's Tribe community member - Delhi NCR's largest open source community at
-                  Noida.
+                  continously polish my skills in Smart contracts development and intergration - focusing mainly on gas efficiency and 
+                  security.
                 </li>
                 <li>
-                  ISTE NIT Durgapur Students' Branch - Content Writer. I write about Tech, STEM
+                  Experimenting With Data Processing them for meaning and playing around with various ML models.
                 </li>
                 <li>
-                  experiment with CNNs, GANs, ANNs and love playing with their hyperparameters. I am
-                  a Udacity deep learning nanodegree graduate.
-                </li>
-                <li>
-                  writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on
-                  Medium.
+                  Now and then pick up on new languages and technologies diving deep into them and learning how they can be potential asset
+                  in my toolbox.
                 </li>
               </ul>
-
+{/* 
               <h4>Projects I'm working on</h4>
               <ul>
                 <li>
@@ -188,23 +182,22 @@ const About = () => {
                   working on a Drawin Core Data Visualization
                   <a href="https://github.com/marinebon/py-dwc-viz">python package</a>
                 </li>
-              </ul>
+              </ul> */}
 
               <h4>Things I did previously</h4>
               <ul>
-                <li>worked on an open-source python package for Open Ocean data.</li>
+                <li>developed smart contract and backend system for liquidity pool and staking functionalities
+                  of a risk tokenizing protocol</li>
                 <li>
-                  worked with an NGO to implement a code for good project against child abuse.
+                  worked on a an onchain insurance Marketplace built untop of the EVM.
                 </li>
-                <li>built a web-based chatbot that can help reduce unreported abuses.</li>
+                <li>worked on authentication and CRM microservices for one of South Africa's Biggest insurance Company.</li>
                 <li>
-                  built a blockchain powered to tool to track hospital beds and ventilators in
-                  COVID19 hospitals.
+                  built a blockchain powered to authonomous organisations where holders of a particular token can come together and 
+                  take decisions on use of funds in the system's treasury.
                 </li>
                 <li>
-                  handled shared responsibility for managing Rotary Sponsored Interact Club programs
-                  such as raising awareness against Polio Eradication and Donation drives to local
-                  Orphanages in high school.
+                  Designed, built and deployed a multitude of NFT PFP projects as well as a few Marketplaces on both layer 1 and 2 chains.
                 </li>
               </ul>
             </p>
