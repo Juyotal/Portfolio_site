@@ -60,17 +60,17 @@ const Hero = () => {
   const one = (
     <h1>
       <br />
-      Hi, my name is
+      Hi, I am
     </h1>
   );
-  const two = <h2 className="big-heading">Ayush Anand.</h2>;
-  const three = <h3 className="big-heading">I am a web and AI developer.</h3>;
+  const two = <h2 className="big-heading">Jules Cesar Taghe.</h2>;
+  const three = <h3 className="big-heading">I am a web and blockchain developer.</h3>;
   const four = (
     <>
       <p>
-        I am a CS Undergrad and a python geek really passionate about using data to solve world's
-        challenges. I have a substantial experience in developing app for the web and creating
-        machine learning models.
+        I am a Mechatronics Undergrad and a python geek really passionate about all possibilities achievable 
+        with Code. I have a substantial experience in developing app for the web and developing
+        smart contracts for the Ethereum Virtual Machine.
       </p>
     </>
   );
@@ -78,20 +78,11 @@ const Hero = () => {
     <p>
       <a
         className="email-link"
-        href="https://linkedin.com/in/theayushanand"
+        href="https://www.linkedin.com/in/jules-t-774291207/"
         target="_blank"
         rel="noreferrer"
       >
         Connect with me!
-      </a>
-      <span>&emsp;&emsp;</span>
-      <a
-        className="email-link"
-        href="https://medium.com/@theayushanand"
-        target="_blank"
-        rel="noreferrer"
-      >
-        Read Blogs
       </a>
     </p>
   );
