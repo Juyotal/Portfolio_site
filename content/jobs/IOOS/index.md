@@ -1,13 +1,14 @@
 ---
-date: '2022-05-11'
-title: 'Google Summer of Code 2022 contributor'
-company: 'IOOS'
-location: 'Virginia, US | Remote'
-range: 'May - Sep 2022 '
-url: 'https://summerofcode.withgoogle.com/programs/2022/projects/aMwpR5uH'
+date: '2021-01-17'
+title: 'Blockchain Engineer'
+company: 'Linum Labs'
+location: 'Cape Town, SA | Remote'
+range: 'Jan 2021 - Dec 2022 '
+url: 'https://www.linumlabs.com/'
 ---
 
-- Rebuilt the complete pyobis python package - python client to OBIS API, with 100% endpoint coverage, ensuring quality by increasing the unit test coverage to 100% for all modules. [_github.com/iobis/pyobis_](https://github.com/iobis/pyobis)
-- Implemented 4 new features focusing on code quality, and successfully getting the release of a production package within a span of 12 weeks.
-- Resolved more than 27 open issues, and successfully created 30 merged pull requests.
-- Extrapolated data visualization tools to bring out research-grade analyses on migration patterns, time-series depth analysis, and species population among others from data captured through all 7 OBIS nodes globally
+- Architect and develop complex smart contract solutions for a variety of clients. Incorporates a stack of Solidity, Foundry, Hardhat, JavaScript, Graph, Typescript and more.
+- Lead the design and development of multiple Smart Contract Systems including NFT marketplaces, PFP projects, DAO systems on both Ethereum layer 1 and layer 2 chains.
+- Been part of teams responsible for development of Defi operations such as Staking Contracts, Bonding Curves, yield-tokens, tranches, and yield curves.
+- Responsible for the development of off-chain database infrastructures for our various EVM systems with the use of the Subgraph and NodeJs.
+- Smart Contract testing in both Hardhat Typescript and Foundry, pull requests, code reviews, load/stress testing.

@@ -1,12 +1,13 @@
 ---
-date: '2023-01-15'
-title: 'AI Developer Intern'
-company: 'Openfabric'
-location: 'Romania | Remote'
-range: 'Jan - Feb 2023'
-url: 'https://openfabric.ai'
+date: '2019-01-15'
+title: 'Python Developer'
+company: 'SincoTech'
+location: 'Johannesburg | Remote'
+range: 'Jan 2019 - Jan 2021'
+# url: 'https://openfabric.ai'
 ---
 
-- Write, develop, evaluate and document new and modified software programs running on the Openfabric Testnet chain.
-- Developing a 3D Human Rotation AI App using HumanNeRF based architecture.
+- Work with an agile team to develop, test, support, and maintain all software that the team is responsible for with the use of python, Django and ReactJs .
+- Understand and respond to the needs and requirements of clients.
 - Research, design and implement algorithms in deep learning for computer vision ang cutting-edge research.
+- Bug fixing and improving software security, performance, quality, and responsiveness
