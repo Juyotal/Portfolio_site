@@ -9,5 +9,4 @@ range: 'Jan 2019 - Jan 2021'
 
 - Work with an agile team to develop, test, support, and maintain all software that the team is responsible for with the use of python, Django and ReactJs .
 - Understand and respond to the needs and requirements of clients.
-- Research, design and implement algorithms in deep learning for computer vision ang cutting-edge research.
 - Bug fixing and improving software security, performance, quality, and responsiveness

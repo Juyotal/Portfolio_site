@@ -1,7 +1,7 @@
 ---
-date: '2021-12-27'
-title: 'Predicting Particle Collision in CERN CMS'
-github: 'https://github.com/ayushanand18/cern-cms-detect-exp'
+# date: ''
+title: 'Liberty Stagian'
+# github: 'https://github.com/ayushanand18/cern-cms-detect-exp'
 external: 'https://github.com/ayushanand18/cern-cms-detect-exp'
 tech:
   - PyTorch

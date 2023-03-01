@@ -156,9 +156,10 @@ const About = () => {
             </p>
 
             <p>
-              <h4>Things I do</h4>
+              <h4>Things I do to spend time</h4>
               <ul>
-                <li>research and keep up to date with the latest trends in the WEB 3 space. (everything goes so fast)</li>
+                <li>Research and keep up to date with the latest trends in the WEB 3 space. (everything goes so fast)</li>
+                <li> Laugh with family</li>
                 <li>
                   continously polish my skills in Smart contracts development and intergration - focusing mainly on gas efficiency and 
                   security.
@@ -166,6 +167,7 @@ const About = () => {
                 <li>
                   Experimenting With Data Processing them for meaning and playing around with various ML models.
                 </li>
+                <li> Watch Anime, comedy shows and play videogames</li>
                 <li>
                   Now and then pick up on new languages and technologies diving deep into them and learning how they can be potential asset
                   in my toolbox.
@@ -214,7 +216,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.JPG"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
