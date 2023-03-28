@@ -1,13 +1,17 @@
 ---
-date: '2020-4-1'
-title: 'Generate TV Script using RNNs (Python)'
-github: 'https://github.com/udacity/deep-learning-v2-pytorch'
-external: 'https://github.com/udacity/deep-learning-v2-pytorch'
+date: ''
+title: 'MP4 to MP3 Converter (Python)'
+github: 'https://github.com/Juyotal/System-Designs'
+# external: 'https://github.com/udacity/deep-learning-v2-pytorch'
 tech:
-  - PyTorch
   - Python
+  - Flask
+  - MongoDB
+  - Kubernetes
+  - Docker
+  - RabbitMQ
 company: 'Udacity'
 showInProjects: true
 ---
 
-This projects involves generating TV scripts by defining and training a recurrent neural network (deep learning).
+The Project is as simple as it sounds. Just a MP4 to MP3 converter making use of Microservices architecture. This was for me an opportunity to experiment with flask for the very first time and dive deeper into message queuing systems using RabbitMQ. 

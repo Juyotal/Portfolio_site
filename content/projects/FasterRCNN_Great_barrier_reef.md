@@ -1,6 +1,6 @@
 ---
-date: '2021-12-20'
-title: 'Deep Learning Research for FasterRCNN model on Underwater Image Data from the Great Barrier Reef'
+date: ''
+title: ''
 github: 'https://github.com/ayushanand18/FasterRCNN-Great-Barrier-Reef'
 external: 'https://github.com/ayushanand18/FasterRCNN-Great-Barrier-Reef'
 tech:

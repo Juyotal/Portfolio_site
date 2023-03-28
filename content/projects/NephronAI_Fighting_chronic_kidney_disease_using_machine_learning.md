@@ -1,15 +1,16 @@
 ---
-date: '2020-06-27'
-title: 'NephronAI — Fighting chronic kidney disease using machine learning'
-github: 'https://github.com/ayushanand18/nephron-ai'
-external: 'https://ayushanand18.github.io/nephron-ai'
+date: ''
+title: 'Cap3 Dynamic NFT DAO'
+# github: 'https://github.com/ayushanand18/nephron-ai'
+external: 'https://cap3collective.io/'
 tech:
-  - AzureML
-  - Python
-  - JavaScript
+  - Solidity (Hardhat)
+  - TypeScript
   - NodeJS
-company: ''
+  - GrahQL
+  - NextJS
+company: 'Linum Labs'
 showInProjects: true
 ---
 
-Built a web-based accessible tool for individuals, practicing physicians, hospitals, to detect chronic kidney disease with 99%+ accuracy based on a Random Forest model, get the underlying cause using Fuzzy logic, and recommended change in lifestyle to help tackle the disease.
+Architected, Developed and Tested Decentralised Autonomous Organisation System For Cap3 which enables Individual to Mint Non Tangible Tokens as proof of membership to organisation. Members of this organisation can come up with project proposals for start up ideas and collectively vote on said proposals which when approved are funded by the system.

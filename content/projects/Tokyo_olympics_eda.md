@@ -1,15 +1,15 @@
 ---
 date: '2021-10-19'
-title: 'Tokyo Olympics 2020 | Interesting Data Patterns'
-github: 'https://www.kaggle.com/theayushanand/tokyo-2020-data-visualization/notebook'
-external: 'https://www.kaggle.com/theayushanand/tokyo-2020-data-visualization/notebook'
+title: 'NLP ChatBot'
+github: 'https://github.com/Juyotal/chatbot_tut'
+# external: 'https://www.kaggle.com/theayushanand/tokyo-2020-data-visualization/notebook'
 tech:
   - Python
-  - Pandas
-  - Seaborn
+  - Pytorch
   - Matplotlib
+  - Beautiful Soup.
 company: ''
 showInProjects: true
 ---
 
-Analyzed Tokyo Olympics 2020 data and identifying really interesting patterns such as gender, country and ethnicity diversity across disciplines.
+Simple implementation of a 💬NLP chatbot answering questions about science.
