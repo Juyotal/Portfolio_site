@@ -1,11 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: "/Portfolio_site",
   siteMetadata: {
     title: 'Jules Taghe',
     description:
       'Jules Cesar Taghe is a Mechatronics Undergrad specializing in building (and occasionally designing) cool apps',
-    siteUrl: '', // No trailing slash allowed!
+    siteUrl: 'https://juyotal.github.io/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
