@@ -1,9 +1,9 @@
 ---
-date: '2021-01-17'
+date: '2022-01-17'
 title: 'Blockchain Engineer'
 company: 'Linum Labs'
 location: 'Cape Town, SA | Remote'
-range: 'Jan 2021 - Dec 2022 '
+range: 'Jan 2022 - Jan 2022 '
 url: 'https://www.linumlabs.com/'
 ---
 

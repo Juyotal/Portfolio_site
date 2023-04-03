@@ -1,11 +1,11 @@
 {
-  "name": "Ayush-Anand",
-  "description": "Ayush Anand - Personal Website",
+  "name": "Jules Taghe",
+  "description": "Jules Taghe - Personal Website",
   "version": "1.0.0",
-  "author": "Ayush Anand <ayush.anandsa@gmail.com>",
+  "author": "Jules Taghe <cesarkamga3@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ayushanand18/ayushanand18.github.io"
+    "url": "https://github.com/Juyotal/Portfolio_site"
   },
   "keywords": [
     "gatsby"

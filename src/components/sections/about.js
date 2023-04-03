@@ -129,13 +129,13 @@ const About = () => {
     'Python (pandas, numpy, matplotlib+)',
     'PyTorch',
     'Django',
+    'Flask',
     'TypeScript',
     'NodeJS',
     'NextJs',
     'Solidity (Foundry, Hardhat)',
     'GraphQL',
     'PostgeSQL',
-    'AWS',
     'Docker',
     'Kubernetes',
     'RabbitMQ',
@@ -152,20 +152,21 @@ const About = () => {
             <p>
               Hello! My name is Jules Taghe and I enjoy creating things as long as I feel there is something
               I can learn from it. Apart from being a Mechatronics Undergrad at CPUT, I am 
-              a full-stack and blockchain developer Aiming at leveraging code for world development.
+              a full-stack and blockchain developer aiming to create meaningful contributions through 
+              creative and highly effective software development..
             </p>
 
             <p>
               <h4>Things I do to spend time</h4>
               <ul>
-                <li>Research and keep up to date with the latest trends in the WEB 3 space. (everything goes so fast)</li>
-                <li> Laugh with family</li>
+                <li>Research and keep up to date with the latest trends in the space. (everything goes so fast)</li>
+                <li> Laugh</li>
                 <li>
                   continously polish my skills in Smart contracts development and intergration - focusing mainly on gas efficiency and 
                   security.
                 </li>
                 <li>
-                  Experimenting With Data Processing them for meaning and playing around with various ML models.
+                  Look into various Open Source projects to learn and try to contribute to them.
                 </li>
                 <li> Watch Anime, comedy shows and play videogames</li>
                 <li>

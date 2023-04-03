@@ -1,15 +1,15 @@
 ---
-date: '2019-10-19'
-title: 'Alec AI Assist | Fighting fake news using the google assistant'
-github: 'https://github.com/ayushanand18/alec.ai'
-external: 'https://ayushanand18.github.io/alec.ai'
+date: '2023-02-19'
+title: 'Rotki'
+github: 'https://github.com/rotki/rotki'
+external: 'https://rotki.com/'
 tech:
-  - Google Assistant
-  - Cloud Actions
-  - Firebase
-  - JavaScript
-company: ''
+  - Python
+  - Flask
+  - SQLite
+  - Vue
+company: 'Rotki'
 showInProjects: true
 ---
 
-Alec AI Assist is a voice and text based virtual assistant to help us combat fake news, allowing a user to fact check a news, blog, tweet or SMS and return whether that seems fake or true - all by simply talking to it! It is also available on the Google Assistant.
+Rotki is an open source portfolio tracker, accounting and analytics tool. This is Blockchain intergrations app that keeps track of all the User's money transactions on the different chains and makes a detailed statement of his overall account.
